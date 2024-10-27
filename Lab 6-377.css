@@ -1,0 +1,13 @@
+.marker-info {
+    font-size: 1.2em; 
+    font-weight: bold;
+}
+
+.locality-info {
+    font-size: 1em; 
+    font-weight: bold;
+}
+
+#map {
+    height: 400px;
+}
